@@ -1,0 +1,22 @@
+export const WORDS = [
+  'SNAKE',
+  'APPLE',
+  'BEACH',
+  'CLOUD',
+  'DREAM',
+  'EARTH',
+  'FLAME',
+  'GHOST',
+  'HEART',
+  'LIGHT',
+  'MUSIC',
+  'OCEAN',
+  'PEACE',
+  'QUEEN',
+  'RIVER',
+  'SPACE',
+  'TIGER',
+  'WATER',
+  'WORLD',
+  'YOUTH'
+];
